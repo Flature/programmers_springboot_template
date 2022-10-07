@@ -31,9 +31,19 @@
 
 <br>
 
+### Discord 채널 가입하기
+
+디스코드 채널은 같은 기수에 참여하신 분들끼리 소통하고 함께 문제를 해결하기 위한 공간입니다. <br>
+전체적으로 코스원 분들과 합의가 된다면 코드 리뷰와 같은 좋은 경험을 해볼 수 있습니다.
+
+1. [링크](https://discord.gg/T2VwTzrW9v)를 클릭합니다.
+2. 채널에 가입하고 '요청' 채널을 통해 코스 수강 기수를 말씀해주세요.
+    1. 제가 확인하여 각 기수마다 사용하는 채널을 오픈해드립니다.
+
 ## 📚 Reference
 
 아래 Repository는 스터디를 진행하면서 참고용으로 보시면 좋습니다. <br>
 이전 기수에서 좋은 결과물을 만들어주신 분들의 레포지토리가 포함되어 있습니다.
 
 - [Around Hub Studio SpringBoot](https://github.com/Around-Hub-Studio/AroundHub_SpringBoot)
+- [스프링 부트 핵심 가이드 예제 코드](https://github.com/wikibook/springboot)
